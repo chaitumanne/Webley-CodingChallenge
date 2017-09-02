@@ -10,8 +10,8 @@ Steps to run the project:
 	b. sudo apt-get install default-jdk
 2. Download the project and save it on your local machine.
 3. You have to download the jar file and place in /usr/local folder. For your convenient purpose I have placed it on github. Install log4j file and set the path in case to have log files generated
-	$ export CLASSPATH=$CLASSPATH:/usr/local/apache-log4j-1.2.17/log4j-1.2.17.jar
-	$ export PATH=$PATH:/usr/local/apache-log4j-1.2.17/
+	* $ export CLASSPATH=$CLASSPATH:/usr/local/apache-log4j-1.2.17/log4j-1.2.17.jar
+	* $ export PATH=$PATH:/usr/local/apache-log4j-1.2.17/
 4. Open terminal and move to the project folder and file by using command
 	cd <file-path>
 5. For compilation use javac MenuPuzzle.java
