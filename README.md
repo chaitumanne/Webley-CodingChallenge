@@ -23,3 +23,12 @@ Notes:
 ------
 1. Code can be executed on windows and linux machines you can find the appropriate folders on the github
 2. Programs accepts a input file in csv format, reads the information and extracts the date based on the criteria provided.
+
+Log4j Jar file
+https://github.com/cm7cd/Webley-CodingChallenge/blob/master/log4j-1.2.17.zip
+
+Linux Version
+https://github.com/cm7cd/Webley-CodingChallenge/tree/master/Webley-Linux/Webley
+
+Windows or eclipse version
+https://github.com/cm7cd/Webley-CodingChallenge/tree/master/Webley-Windows/Webley
