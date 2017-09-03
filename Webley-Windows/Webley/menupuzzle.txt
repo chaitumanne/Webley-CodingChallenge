@@ -131,3 +131,29 @@ WARN    2017-09-02 15:40:25,110 [main] chai.webley.puzzle.MenuPuzzle  - make sur
 INFO    2017-09-02 15:41:51,402 [main] chai.webley.puzzle.MenuPuzzle  - the main method is invoked
 INFO    2017-09-02 15:41:51,402 [main] chai.webley.puzzle.MenuPuzzle  - menu details has been extracted from the csv file
 WARN    2017-09-02 15:41:51,402 [main] chai.webley.puzzle.MenuPuzzle  - make sure to split the line and delete unnecessary characters
+INFO    2017-09-02 18:26:30,892 [main] chai.webley.puzzle.MenuPuzzle  - the main method is invoked
+INFO    2017-09-02 18:26:30,907 [main] chai.webley.puzzle.MenuPuzzle  - menu details has been extracted from the csv file
+WARN    2017-09-02 18:26:30,907 [main] chai.webley.puzzle.MenuPuzzle  - make sure to split the line and delete unnecessary characters
+INFO    2017-09-02 19:08:10,337 [main] chai.webley.puzzle.MenuPuzzle  - the main method is invoked
+INFO    2017-09-02 19:08:10,337 [main] chai.webley.puzzle.MenuPuzzle  - menu details has been extracted from the csv file
+WARN    2017-09-02 19:08:10,337 [main] chai.webley.puzzle.MenuPuzzle  - make sure to split the line and delete unnecessary characters
+INFO    2017-09-02 19:12:58,734 [main] chai.webley.puzzle.MenuPuzzle  - the main method is invoked
+INFO    2017-09-02 19:12:58,734 [main] chai.webley.puzzle.MenuPuzzle  - menu details has been extracted from the csv file
+WARN    2017-09-02 19:12:58,734 [main] chai.webley.puzzle.MenuPuzzle  - make sure to split the line and delete unnecessary characters
+INFO    2017-09-02 19:13:23,187 [main] chai.webley.puzzle.MenuPuzzle  - the main method is invoked
+INFO    2017-09-02 19:13:23,187 [main] chai.webley.puzzle.MenuPuzzle  - menu details has been extracted from the csv file
+WARN    2017-09-02 19:13:23,187 [main] chai.webley.puzzle.MenuPuzzle  - make sure to split the line and delete unnecessary characters
+INFO    2017-09-02 19:13:42,513 [main] chai.webley.puzzle.MenuPuzzle  - the main method is invoked
+INFO    2017-09-02 19:13:42,528 [main] chai.webley.puzzle.MenuPuzzle  - menu details has been extracted from the csv file
+WARN    2017-09-02 19:13:42,528 [main] chai.webley.puzzle.MenuPuzzle  - make sure to split the line and delete unnecessary characters
+INFO    2017-09-02 19:13:47,812 [main] chai.webley.puzzle.MenuPuzzle  - the main method is invoked
+INFO    2017-09-02 19:13:47,812 [main] chai.webley.puzzle.MenuPuzzle  - menu details has been extracted from the csv file
+WARN    2017-09-02 19:13:47,812 [main] chai.webley.puzzle.MenuPuzzle  - make sure to split the line and delete unnecessary characters
+INFO    2017-09-02 19:13:52,974 [main] chai.webley.puzzle.MenuPuzzle  - the main method is invoked
+WARN    2017-09-02 19:13:52,974 [main] chai.webley.puzzle.MenuPuzzle  - java.io.FileNotFoundException: files\menu3.csv (The system cannot find the file specified)
+INFO    2017-09-02 19:13:58,434 [main] chai.webley.puzzle.MenuPuzzle  - the main method is invoked
+INFO    2017-09-02 19:13:58,434 [main] chai.webley.puzzle.MenuPuzzle  - menu details has been extracted from the csv file
+WARN    2017-09-02 19:13:58,434 [main] chai.webley.puzzle.MenuPuzzle  - make sure to split the line and delete unnecessary characters
+INFO    2017-09-02 19:22:04,608 [main] chai.webley.puzzle.MenuPuzzle  - the main method is invoked
+INFO    2017-09-02 19:22:04,608 [main] chai.webley.puzzle.MenuPuzzle  - menu details has been extracted from the csv file
+WARN    2017-09-02 19:22:04,608 [main] chai.webley.puzzle.MenuPuzzle  - make sure to split the line and delete unnecessary characters

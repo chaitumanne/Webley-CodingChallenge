@@ -147,3 +147,11 @@ INFO    2017-09-02 18:10:13,325 [main] MenuPuzzle  - menu details has been extra
 WARN    2017-09-02 18:10:13,326 [main] MenuPuzzle  - make sure to split the line and delete unnecessary characters
 INFO    2017-09-02 18:11:13,656 [main] MenuPuzzle  - the main method is invoked
 WARN    2017-09-02 18:11:13,659 [main] MenuPuzzle  - java.io.FileNotFoundException: menu3.csv (No such file or directory)
+INFO    2017-09-02 20:42:13,618 [main] MenuPuzzle  - the main method is invoked
+WARN    2017-09-02 20:42:13,638 [main] MenuPuzzle  - java.io.FileNotFoundException: files/menu.csv (No such file or directory)
+INFO    2017-09-02 20:42:53,563 [main] MenuPuzzle  - the main method is invoked
+INFO    2017-09-02 20:42:53,636 [main] MenuPuzzle  - menu details has been extracted from the csv file
+WARN    2017-09-02 20:42:53,637 [main] MenuPuzzle  - make sure to split the line and delete unnecessary characters
+INFO    2017-09-02 21:14:26,908 [main] MenuPuzzle  - the main method is invoked
+INFO    2017-09-02 21:14:26,944 [main] MenuPuzzle  - menu details has been extracted from the csv file
+WARN    2017-09-02 21:14:26,945 [main] MenuPuzzle  - make sure to split the line and delete unnecessary characters
